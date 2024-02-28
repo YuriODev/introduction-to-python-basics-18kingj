@@ -1,2 +1,6 @@
 # Exercise 8
-# Your solution comes here
+a = int(input("Enter a number: "))
+b = int(input("Enter a different number: "))
+c = int(input("Enter a different number: "))
+arry = [a, b, c]
+arry.sort()
