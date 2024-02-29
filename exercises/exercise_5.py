@@ -1,4 +1,4 @@
 # Exercise 5
-a = int(input("Enter a number: "))
-b = int(input("Enter a different number: "))
+a = int(input())
+b = int(input())
 print(max(a, b))

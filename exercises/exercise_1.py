@@ -1,5 +1,5 @@
 # Exercise 1
-list = input("Enter a list of numbers: ")
+list = input()
 first_num = 0
 second_num = 0
 for i in range(5):

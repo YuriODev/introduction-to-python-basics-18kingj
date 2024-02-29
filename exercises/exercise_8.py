@@ -1,7 +1,7 @@
 # Exercise 8
-a = int(input("Enter a number: "))
-b = int(input("Enter a different number: "))
-c = int(input("Enter a different number: "))
+a = int(input()
+b = int(input())
+c = int(input())
 arry = [a, b, c]
 arry.sort()
 print(arry[0])

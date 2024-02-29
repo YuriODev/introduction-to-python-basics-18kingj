@@ -1,5 +1,5 @@
 # Exercise 4
-num = input('Enter a four digit integer: ')
+num = input()
 if len(num) != 4:
   print(0)
 elif num[0] == num[3] and num[1] == num[2]:

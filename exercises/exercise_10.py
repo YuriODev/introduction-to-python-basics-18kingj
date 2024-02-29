@@ -1,4 +1,4 @@
 # Exercise 10
-hour_angle = float(input("Enter the hour angle: "))
+hour_angle = float(input())
 minute_angle = (hour_angle % 30) * 12
 print(minute_angle)

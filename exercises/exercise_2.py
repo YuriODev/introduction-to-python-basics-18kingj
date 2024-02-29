@@ -1,3 +1,3 @@
 # Exercise 2
-num = int(input("Enter a number: "))
+num = int(input())
 print(num + 2 - num % 2)

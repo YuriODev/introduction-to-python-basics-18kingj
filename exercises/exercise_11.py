@@ -1,5 +1,5 @@
 # Exercise 11
-cost = int(input("Enter the cost of the item: "))
+cost = int(input())
 five_hun = 0
 while cost >= 500:
   five_hun = five_hun + 1
