@@ -1,2 +1,5 @@
 # Exercise 6
-# Your solution comes here
+a = int(input())
+b = int(input())
+sum = "YES" * (a % b == 0) or "NO"
+print(sum)
