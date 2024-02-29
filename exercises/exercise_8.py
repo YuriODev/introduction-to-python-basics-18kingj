@@ -1,5 +1,5 @@
 # Exercise 8
-a = int(input()
+a = int(input())
 b = int(input())
 c = int(input())
 
