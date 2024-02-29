@@ -20,4 +20,4 @@ one = 0
 while cost >= 1:
   one = one + 1
   cost = cost - 1
-print(f" {five_hun}(500), {one_hun}(100), {ten}(10), {five}(5), {one}(1)")
+print(f"{five_hun} (500), {one_hun} (100), {ten} (10), {five} (5), {one} (1)")
